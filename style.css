@@ -1,0 +1,8 @@
+
+.bot > video{
+    background-attachment: fixed;
+}
+.top > video{
+    background-attachment: fixed;
+    background-image: url(./images/Pexels\ Videos\ 1436812.mp4);
+}
